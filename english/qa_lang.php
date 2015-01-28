@@ -76,4 +76,3 @@ $lang['qa_basics']						= "Learning the basics";
 $lang['qa_setup']						= "Further setup";
 $lang['qa_nick']						= "Your Name";
 $lang['qa_full_answer']                 = "Full Answer";
-
